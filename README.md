@@ -1,5 +1,8 @@
 # QR-Code-Generator
 
+
+ ~ Executed using PyCharm ~
+  
 A Python-based QR code generator with customizable shapes, colors, and data types, supporting text, URL, phone number, and email address, with features including square or circular shapes, adjustable size, and customizable fill and background colors.
 
 Features :
@@ -18,4 +21,4 @@ Features :
    
 3. The user will also be able to select the background color,fill color,size(5-30) and the shape of the qr inside(dotted / square).
 
-NOTE: if the user enters a invalid shape/size/color then default options will be considered.
+NOTE: If the user enters a invalid shape/size/color then default options will be considered.
