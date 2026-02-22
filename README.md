@@ -1,4 +1,5 @@
 # QR-Code-Generator
+# (sem-2)
 
 
  ~ Executed using PyCharm ~
